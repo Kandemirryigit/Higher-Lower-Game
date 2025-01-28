@@ -1,7 +1,7 @@
 
 import random      # To use random module firstly we should import it
 from art import *  # From art.py import everything inside main.py
-from chrachters import data  # From chracters.py import data to main.py
+from character import data  # From chracters.py import data to main.py
 import time        # To use time module firslt we should import it
 
 
